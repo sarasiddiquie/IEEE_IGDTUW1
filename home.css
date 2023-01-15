@@ -33,7 +33,7 @@ body {
 
 .pics{
     height: 30rem;
-    margin: 1rem;
+    margin: 1rem auto;
     width: 75%;
     font-size: 30px;
 }

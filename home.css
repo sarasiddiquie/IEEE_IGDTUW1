@@ -1,0 +1,164 @@
+.navbar-nav {
+    margin-left: 42rem;
+
+}
+
+.nav-item {
+    padding-left: 1.6rem;
+}
+
+body {
+    /*height: 100vh;*/
+    /*width: 200%;*/
+    /* display: flex; */
+    justify-content: justify;
+    align-items: center;
+    background: #f2f2f2;
+    overflow-x: hidden;
+    margin-left: 40px;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.topdiv {
+
+    height: 30rem;
+    margin: 1.5rem;
+    padding-left: 3rem;
+
+    font-size: 30px;
+}
+
+.test1{
+ 
+    font-weight: 700;
+    font-size: 4.375rem;
+    line-height: 4.375rem;
+}
+.btt {
+    width: 9rem;
+    padding: 1rem;
+    margin-top: 4rem;
+    border-radius: 100px;
+
+
+}
+
+.top-text {
+    font-family: 'Poppins';
+    text-align: center;
+    width: 60%;
+    margin: 4.3rem auto;
+}
+
+.top-text>h2 {
+    font-weight: 600;
+    font-size: 2.375rem;
+}
+
+.d-block {
+    width: 95%;
+    height: 30rem;
+    border-radius: 5%;
+}
+
+.container {
+    margin-top: 7rem;
+}
+
+#logo {
+    width: 18rem;
+}
+
+.card-title {
+    margin-top: 14%;
+}
+
+.card-text {
+    width: 70%;
+
+    margin: 1rem auto;
+}
+
+
+
+.outer-container {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 3.125rem;
+    background: #EFF2FB;
+    position: relative;
+    margin: 2rem auto;
+}
+
+.inner-circle {
+    position: absolute;
+    width: 8.75rem;
+    height: 8.75rem;
+    background: #6889FF;
+    border-radius: 50%;
+}
+
+.icon {
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+}
+
+.inner-circle,
+.icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.textpart {
+    margin: 2rem auto;
+    width: 70%;
+    padding-left: 1rem;
+}
+
+/********************/
+p {
+    color: #777C8D;
+}
+
+.footer-heading {
+    color: black;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+footer {
+    margin-top: 6rem;
+    font-family: 'Poppins';
+}
+
+h3 {
+    font-weight: 700;
+    
+}
+
+ul {
+    list-style-type: none;
+    
+}
+.links{
+    color: #777C8D;
+    
+}
+.copyright-text{
+    text-align: center;
+}
+a:visited{
+    color: #777C8D;
+}
+a:hover {
+    color:#6889FF;
+  }
